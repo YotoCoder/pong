@@ -1,5 +1,5 @@
 # Pong Game
 
-- My humble version of this classic game
+- Classic game
 
 ![](media/images/Screenshot_387.png)
